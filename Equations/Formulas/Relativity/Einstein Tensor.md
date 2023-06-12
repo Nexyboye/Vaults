@@ -3,8 +3,8 @@ $$G_{ij} = R_{ij} - (1/2) \cdot g_{ij} \cdot R$$
 
 where
 	$R_{ij}$ is the [[Ricci Tensor]]
-	$g_{ij}$ is the Metric Tensor
-	$R$ is the Ricci Scalar
+	$g_{ij}$ is the [[Metric Tensor]]
+	$R$ is the [[Scalar Curviture]]
 
 $$G_{ij} = \frac{8 \cdot π \cdot G} {c^4 \cdot T_{ij}}$$
 
