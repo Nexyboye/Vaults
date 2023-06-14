@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Relativity/Riemann Curviture Tensor.md",
+                "file": "Formulas/Relativity/Christoffel Symbols.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas/Relativity/Riemann Curviture Tensor.md",
+                "file": "Formulas/Relativity/Christoffel Symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas/Relativity/Riemann Curviture Tensor.md",
+                "file": "Formulas/Relativity/Christoffel Symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas/Relativity/Riemann Curviture Tensor.md"
+                "file": "Formulas/Relativity/Christoffel Symbols.md"
               }
             }
           }
@@ -148,41 +148,42 @@
   },
   "active": "bb92aa61b4ae5071",
   "lastOpenFiles": [
+    "Formulas/Relativity/Einstein Field Equations.md",
     "Formulas/Relativity/Christoffel Symbols.md",
-    "Formulas/Relativity/Riemann Curviture Tensor.md",
-    "Formulas/Relativity/Inverse Metric Tensor.md",
     "Formulas/Relativity/Einstein Tensor.md",
     "Formulas/Relativity/Metric Tensor.md",
-    "Formulas/Relativity/Ricci Tensor.md",
-    "Formulas/Math/Radius.md",
-    "Formulas/Math/Product Rule for Radicals.md",
-    "Formulas/Math/Negative Exponent Rule.md",
-    "Formulas/Math/Differential Geometry/First-order Linear Differential Equation.md",
-    "Formulas/Relativity/Stress-Energy Tensor.md",
+    "Formulas/Relativity/Inverse Metric Tensor.md",
+    "Formulas/Relativity/Gravitational Time Dilation.md",
+    "Formulas/Relativity/Velocity Time Dilation.md",
+    "Formulas/Classical Mechanics/Energy Density.md",
+    "Formulas/Classical Mechanics/Displacement.md",
+    "Formulas/Classical Mechanics/Conservation of Momentum.md",
+    "Formulas/Classical Mechanics/Centripetal Force.md",
+    "Formulas/Classical Mechanics/Arc Length.md",
+    "Formulas/Classical Mechanics/Angular Velocity.md",
+    "Formulas/Classical Mechanics/Angular Displacement.md",
+    "Formulas/Classical Mechanics/Angular Acceleration.md",
+    "Formulas/Classical Mechanics/Acceleration.md",
+    "Formulas/Classical Mechanics/Moment of Inertia.md",
+    "Formulas/Classical Mechanics/Angular Momentum.md",
+    "Formulas/Classical Mechanics/Torque.md",
+    "Formulas/Classical Mechanics/Impulse.md",
+    "Formulas/Classical Mechanics/Potential Energy.md",
+    "Formulas/Classical Mechanics/Kinetic Energy.md",
+    "Formulas/Classical Mechanics/Newton's Second Law.md",
+    "Formulas/Classical Mechanics/Momentum.md",
+    "Formulas/Classical Mechanics/Force.md",
+    "Formulas/Classical Mechanics/Work.md",
+    "Formulas/Classical Mechanics/Untitled",
+    "Formulas/Classical Mechanics",
+    "Formulas/Electromagnetism/Untitled",
+    "Formulas/Electromagnetism",
     "Formulas/Math/Differential Geometry",
-    "Formulas/Relativity/Einstein Field Equations.md",
-    "Constants/Speed of Light.md",
-    "Constants/Gravitational Constant.md",
-    "Constants/Physics/Cosmological Constant.md",
-    "Formulas/Relativity/Scalar Curviture.md",
-    "Formulas/Classical Physics/Time Interval.md",
-    "Formulas/Classical Physics/Momentum.md",
-    "Formulas/Classical Physics/Torque.md",
-    "Formulas/Classical Physics/Energy Density.md",
-    "Formulas/Classical Physics/Arc Length.md",
-    "Formulas/Classical Physics/Angular Velocity.md",
-    "Formulas/Classical Physics/Angular Displacement.md",
-    "Formulas/Classical Physics/Angular Acceleration.md",
-    "Formulas/Classical Physics/Moment of Inertia.md",
     "Pasted image 20230602155233.png",
     "Constants/Physics",
     "Constants",
     "Formulas/Relativity",
-    "Formulas/Mass.md",
     "Formulas/Math",
-    "My Ideas",
-    "Formulas/Classical Physics",
-    "Formulas",
-    "Measurement"
+    "My Ideas"
   ]
 }
