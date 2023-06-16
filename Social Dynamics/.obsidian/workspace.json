@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "88e5ebbf9e52e946",
+        "id": "aa8866c9ed656fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "bb92aa61b4ae5071",
+            "id": "69747a4cc9370cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Classical Mechanics/Arc Length.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a655c69104c74501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temporal Notes.md",
+                "file": "Emotion Prediction System/Basic Idea.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporal Notes.md",
+                "file": "Emotion Prediction System/Basic Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporal Notes.md",
+                "file": "Emotion Prediction System/Basic Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporal Notes.md"
+                "file": "Emotion Prediction System/Basic Idea.md"
               }
             }
           }
@@ -159,8 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a655c69104c74501",
+  "active": "69747a4cc9370cb3",
   "lastOpenFiles": [
+    "Emotion Prediction System/Input Layer.md",
+    "Emotion Prediction System/Basic Idea.md",
+    "Equations/Motivation.md",
+    "Emotion Prediction System",
+    "Experimential Data/The Hawthorne Effect.md",
+    "Equations",
+    "Experimential Data/The Asch Conformity Experiments.md",
+    "Experimential Data/The Stanford Prison Experiment.md",
+    "Experimential Data/The Robbers Cave Experiment.md",
+    "Experimential Data/The Milgram Experiment.md",
+    "Bullshiting/Power Dynamics.md",
+    "Bullshiting/Workplace/boss - workers.md",
+    "Bullshiting/Useful Stuff/Emotional Well-Being.md",
+    "Bullshiting/Sexual Relationships.md",
+    "Experimential Data",
+    "Bullshiting",
+    "Bullshiting/Useful Stuff/Mental Well-Being.md",
+    "Bullshiting/Useful Stuff/Physical Well-Being.md",
+    "Bullshiting/Useful Stuff/Self-Prioritizing.md",
+    "Bullshiting/Useful Stuff",
+    "Bullshiting/Basic Drives.md",
+    "Bullshiting/Workplace",
     "Formulas/Classical Mechanics/Arc Length.md",
     "Temporal Notes.md",
     "Formulas/Classical Mechanics/Acceleration.md",
@@ -171,32 +180,10 @@
     "Constants/Cosmological Constant.md",
     "Constants/Planck Constant.md",
     "Constants/Reduced Planck Constant.md",
-    "Constants/Speed of Light.md",
-    "Constants/Vacuum Permittivity.md",
-    "Constants/Elementary Charge.md",
-    "Constants/Electrostatic Constant.md",
-    "Constants/Einstein Gravitational Constant.md",
-    "Formulas/Relativity/Christoffel Symbols.md",
-    "Formulas/Relativity/Einstein Field Equations.md",
-    "Formulas/Relativity/Einstein Tensor.md",
-    "Formulas/Relativity/Metric Tensor.md",
-    "Formulas/Relativity/Inverse Metric Tensor.md",
-    "Formulas/Relativity/Gravitational Time Dilation.md",
-    "Formulas/Relativity/Velocity Time Dilation.md",
-    "Formulas/Classical Mechanics/Energy Density.md",
-    "Formulas/Classical Mechanics/Displacement.md",
-    "Formulas/Classical Mechanics/Conservation of Momentum.md",
-    "Formulas/Classical Mechanics/Centripetal Force.md",
     "Formulas/Classical Mechanics/Untitled",
     "Formulas/Classical Mechanics",
     "Formulas/Electromagnetism/Untitled",
     "Formulas/Electromagnetism",
-    "Formulas/Math/Differential Geometry",
-    "Pasted image 20230602155233.png",
-    "Constants/Physics",
-    "Constants",
-    "Formulas/Relativity",
-    "Formulas/Math",
-    "My Ideas"
+    "Pasted image 20230602155233.png"
   ]
 }

@@ -1,0 +1,1 @@
+The boss, who holds the most power, dictates the actions of their subordinates, who must comply or risk losing their jobs. This power struggle is evident in the way employees constantly try to impress their superiors, while the boss uses their authority to maintain control and order. It's all a game of chess, and those who understand the rules are the ones who come out on top.
