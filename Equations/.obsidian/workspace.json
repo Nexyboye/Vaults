@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "88e5ebbf9e52e946",
+        "id": "6b41f4c3c0b5892a",
         "type": "tabs",
         "children": [
           {
-            "id": "bb92aa61b4ae5071",
+            "id": "8780dc9f22ea3cb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Classical Mechanics/Arc Length.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a655c69104c74501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temporal Notes.md",
+                "file": "Formulas/Classical Mechanics/Energy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporal Notes.md",
+                "file": "Formulas/Classical Mechanics/Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporal Notes.md",
+                "file": "Formulas/Classical Mechanics/Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporal Notes.md"
+                "file": "Formulas/Classical Mechanics/Energy.md"
               }
             }
           }
@@ -159,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a655c69104c74501",
+  "active": "8780dc9f22ea3cb4",
   "lastOpenFiles": [
-    "Formulas/Classical Mechanics/Arc Length.md",
+    "Formulas/Classical Mechanics/Density.md",
+    "Formulas/Classical Mechanics/Energy.md",
+    "Formulas/Classical Mechanics/Intensity.md",
+    "Formulas/Classical Mechanics/Power.md",
+    "Formulas/Math/Geometry/Radius.md",
+    "Formulas/Math/Geometry/Area.md",
+    "Formulas/Math/Algebra",
+    "Formulas/Math/Algebra/Negative Exponent Rule.md",
+    "Formulas/Math/Geometry",
     "Temporal Notes.md",
-    "Formulas/Classical Mechanics/Acceleration.md",
-    "Formulas/Classical Mechanics/Angular Velocity.md",
-    "Formulas/Classical Mechanics/Angular Momentum.md",
-    "Formulas/Classical Mechanics/Angular Acceleration.md",
-    "Formulas/Classical Mechanics/Angular Displacement.md",
-    "Constants/Cosmological Constant.md",
-    "Constants/Planck Constant.md",
-    "Constants/Reduced Planck Constant.md",
-    "Constants/Speed of Light.md",
-    "Constants/Vacuum Permittivity.md",
-    "Constants/Elementary Charge.md",
-    "Constants/Electrostatic Constant.md",
-    "Constants/Einstein Gravitational Constant.md",
+    "Formulas/Math/Calculus/Derivative Rules/Derivative Rules.md",
+    "Formulas/Classical Mechanics/Arc Length.md",
+    "Formulas/Math/Algebra/Product Rule for Radicals.md",
+    "Formulas/Math/Calculus/Derivative Rules",
+    "Formulas/Derivative.md",
     "Formulas/Relativity/Christoffel Symbols.md",
+    "Formulas/Math/Calculus/Derivation.md",
+    "Formulas/Math/Calculus",
+    "Formulas/Relativity/Gravitational Time Dilation.md",
     "Formulas/Relativity/Einstein Field Equations.md",
     "Formulas/Relativity/Einstein Tensor.md",
-    "Formulas/Relativity/Metric Tensor.md",
-    "Formulas/Relativity/Inverse Metric Tensor.md",
-    "Formulas/Relativity/Gravitational Time Dilation.md",
-    "Formulas/Relativity/Velocity Time Dilation.md",
-    "Formulas/Classical Mechanics/Energy Density.md",
-    "Formulas/Classical Mechanics/Displacement.md",
-    "Formulas/Classical Mechanics/Conservation of Momentum.md",
-    "Formulas/Classical Mechanics/Centripetal Force.md",
+    "Formulas/Classical Mechanics/Angular Velocity.md",
+    "Formulas/Classical Mechanics/Angular Momentum.md",
+    "Formulas/Classical Mechanics/Angular Displacement.md",
+    "Formulas/Classical Mechanics/Angular Acceleration.md",
+    "Formulas/Classical Mechanics/Acceleration.md",
+    "Formulas/Classical Mechanics/Time Interval.md",
+    "Formulas/Classical Mechanics/Time.md",
+    "Formulas/Classical Mechanics/Tangential Velocity.md",
+    "Formulas/Classical Mechanics/Centripetal Acceleration.md",
     "Formulas/Classical Mechanics/Untitled",
     "Formulas/Classical Mechanics",
     "Formulas/Electromagnetism/Untitled",
     "Formulas/Electromagnetism",
     "Formulas/Math/Differential Geometry",
     "Pasted image 20230602155233.png",
-    "Constants/Physics",
-    "Constants",
-    "Formulas/Relativity",
-    "Formulas/Math",
-    "My Ideas"
+    "Constants/Physics"
   ]
 }

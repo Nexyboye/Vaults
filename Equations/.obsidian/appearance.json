@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Consolas",
   "enabledCssSnippets": [
     "latex_style"
-  ]
+  ],
+  "baseFontSize": 11
 }

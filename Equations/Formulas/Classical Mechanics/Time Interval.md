@@ -1,2 +1,5 @@
 
-$$\Delta t = t_{final} - t_{initial}$$
+$$t = |t_{1} - t_{2}|$$
+
+description
+	Time interval is a distance between two points on the time dimension.
