@@ -1,5 +1,5 @@
 
-$$t' = \frac{t}{\sqrt{1 - \frac{2 \cdot G \cdot M}{r \cdot c^2}}}$$
+$$t' = \frac{t}{\sqrt{1 - \frac{2GM}{rc^2}}}$$
 
 where
 	$t'$ is the dilated [[Time Interval]]

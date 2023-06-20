@@ -2,7 +2,7 @@
 $$E = \frac{F}{Q}$$
 
 where
-	$F$ is the force experienced by a charged object in the field
+	$F$ is the [[Force]] experienced by a charged object in the field
 	$Q$ is the charge of the object
 
 $$E = \frac{k_e \cdot Q}{r^2}$$

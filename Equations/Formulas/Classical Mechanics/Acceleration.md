@@ -3,7 +3,7 @@ $$a = \frac {\Delta v}{\Delta s}$$
 
 where
 	$v$ is [[Velocity]]
-	$t$ is [[Time]]
+	$t$ is [[Time Interval]]
 
 definition
 	The rate of change in velocity with respect to time.

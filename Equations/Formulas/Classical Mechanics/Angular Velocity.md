@@ -1,5 +1,5 @@
 
-$$ω = \frac{Δθ}{Δt}$$
+$$ω = \frac{θ}{t}$$
 
 where
 	θ = [[Angular Displacement]]

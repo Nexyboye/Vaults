@@ -1,11 +1,40 @@
 
-$$ds² = g_{ij} \cdot dx^i \cdot dx^j$$
+$$g_{μν}$$
 
-where
-	$ds²$ is the squared infinitesimal distance between two points
-	$g_{ij}$ is the metric tensor (a symmetric, positive-definite matrix)
-	$dx^i$ and $dx^j$ are the infinitesimal coordinate differences between the two points
-	The indices $i$ and $j$ run from 1 to the dimension of the space (e.g., 1 to 3 for a 3-dimensional space), 0 would be time
 
-definition
-	The metric tensor equation, also known as the line element, is a fundamental equation in differential geometry and general relativity that describes the infinitesimal distance between two points in a curved space.
+
+
+The components of the metric tensor in flat 4d spacetime, calculated by using the [[Line Element]]:
+
+$g_{00} = -c^2, g_{11} = 1, g_{22} = 1, g_{33} = 1$, and all other components are zero.
+
+$$\begin{pmatrix}
+-c^2 & 0 & 0 & 0 \\
+0 & 1 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1
+\end{pmatrix}
+$$
+
+
+
+in flat Euclidean space with Cartesian coordinates:
+
+$g_{ij} = diag(1, 1, 1)$
+$$\begin{pmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1
+\end{pmatrix}
+$$
+
+
+In spherical coordinates
+
+$g_{ij} = diag(1, r^2, r^2 ~ sin^2(θ))$
+$$\begin{pmatrix}
+1 & 0 & 0 \\
+0 & r^2 & 0 \\
+0 & 0 & sin^2(θ)
+\end{pmatrix}
+$$
