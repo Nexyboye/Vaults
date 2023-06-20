@@ -2,7 +2,7 @@
 $$a = \frac {\Delta v}{\Delta s}$$
 
 where
-	$v$ is [[Velocity]]
+	$v$ is [[Linear Velocity]]
 	$t$ is [[Time Interval]]
 
 definition

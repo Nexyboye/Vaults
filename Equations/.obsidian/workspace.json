@@ -11,12 +11,8 @@
             "id": "8780dc9f22ea3cb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formulas/Relativity/Scalar Curviture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas/Relativity/Scalar Curviture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas/Relativity/Scalar Curviture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Formulas/Relativity/Scalar Curviture.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,33 +140,35 @@
   },
   "active": "8780dc9f22ea3cb4",
   "lastOpenFiles": [
-    "Formulas/Relativity/Spacetime Interval.md",
-    "Wikipedia Compressed/Minkowski Space.md",
-    "Wikipedia Compressed",
-    "Formulas/Relativity/Ricci Tensor.md",
-    "Formulas/Relativity/Untitled.md",
-    "Formulas/Relativity/Metric Tensor.md",
-    "Formulas/Relativity/Line Element.md",
-    "Formulas/Relativity/Length Contraction.md",
-    "Formulas/Relativity/Einstein Tensor.md",
-    "Formulas/Relativity/Velocity Time Dilation.md",
-    "Formulas/Relativity/Stress-Energy Tensor.md",
-    "Formulas/Relativity/Schwarzschild Metric.md",
-    "Formulas/Relativity/Scalar Curviture.md",
-    "Formulas/Relativity/Riemann Curviture Tensor.md",
-    "Formulas/Relativity/Christoffel Symbols.md",
-    "Formulas/Relativity/Gravitational Time Dilation.md",
-    "Formulas/Relativity/Einstein Field Equations.md",
-    "Formulas/Relativity/Proper Length.md",
-    "Formulas/Relativity/Inverse Metric Tensor.md",
-    "Formulas/Relativity/Relative Velocity.md",
-    "Formulas/Classical Mechanics/Charge.md",
-    "Formulas/Electromagnetism/Electric Field Strength.md",
     "Formulas/Classical Mechanics/Time Interval.md",
+    "Formulas/Classical Mechanics/Charge.md",
+    "Formulas/Classical Mechanics/Linear Wavenumber.md",
+    "Formulas/Classical Mechanics/Angular Wavenumber.md",
+    "Formulas/Classical Mechanics/Linear Velocity.md",
+    "Formulas/Classical Mechanics/Wavelength.md",
+    "Formulas/Classical Mechanics/Conservation of Momentum.md",
+    "Formulas/Classical Mechanics/Linear Period.md",
+    "Formulas/Classical Mechanics/Angular Frequency.md",
     "Formulas/Classical Mechanics/Time.md",
-    "Formulas/Classical Mechanics/Acceleration.md",
-    "Constants/Cosmological Constant.md",
-    "Constants/Electrostatic Constant.md",
+    "Formulas/Classical Mechanics/Linear Frequency.md",
+    "Formulas/Particle Physics/Broglie Wavelength.md",
+    "Formulas/Classical Mechanics/Position.md",
+    "Formulas/Classical Mechanics/Newton's Second Law.md",
+    "Formulas/Classical Mechanics/Moment of Inertia.md",
+    "Formulas/Classical Mechanics/Linear Momentum.md",
+    "Natural Units/Conversion Factors.md",
+    "Formulas/Particle Physics/Photon Energy.md",
+    "Formulas/Particle Physics",
+    "Formulas/Untitled.md",
+    "Constants/Gravitational Constant.md",
+    "Constants/Reduced Planck Constant.md",
+    "Constants/Speed of Light.md",
+    "Constants/Vacuum Permittivity.md",
+    "Constants/Planck Constant.md",
+    "Formulas/Relativity/Scalar Curviture.md",
+    "Natural Units",
+    "Formulas/Relativity/Spacetime Interval.md",
+    "Wikipedia Compressed",
     "Formulas/Math/Algebra",
     "Formulas/Math/Geometry",
     "Formulas/Math/Calculus/Derivative Rules",
@@ -182,8 +176,6 @@
     "Formulas/Classical Mechanics/Untitled",
     "Formulas/Classical Mechanics",
     "Formulas/Electromagnetism/Untitled",
-    "Formulas/Electromagnetism",
-    "Formulas/Math/Differential Geometry",
     "Pasted image 20230602155233.png"
   ]
 }

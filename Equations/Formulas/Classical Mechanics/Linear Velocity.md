@@ -6,4 +6,4 @@ where
 	$\Delta t$ is a [[Time Interval]]
 
 description
-	Velocity is the change in position with respect to time.
+	Velocity is the change in position with respect to time on a straigth line.
