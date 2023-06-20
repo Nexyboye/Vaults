@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6b41f4c3c0b5892a",
+        "id": "472840bc9a744b65",
         "type": "tabs",
         "children": [
           {
-            "id": "8780dc9f22ea3cb4",
+            "id": "27d2dd347a300bb1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Formulas/Relativity/Relativistic Units/Relativistic Time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bfbd505721ba5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formulas/Relativity/Schwarzschild Metric.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "right": {
     "id": "2fee024af365b93b",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formulas/Relativity/Schwarzschild Metric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Formulas/Relativity/Schwarzschild Metric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Formulas/Relativity/Schwarzschild Metric.md"
+              }
             }
           }
         ]
@@ -138,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8780dc9f22ea3cb4",
+  "active": "4bfbd505721ba5f7",
   "lastOpenFiles": [
-    "Formulas/Classical Mechanics/Time Interval.md",
-    "Formulas/Classical Mechanics/Charge.md",
-    "Formulas/Classical Mechanics/Linear Wavenumber.md",
-    "Formulas/Classical Mechanics/Angular Wavenumber.md",
-    "Formulas/Classical Mechanics/Linear Velocity.md",
-    "Formulas/Classical Mechanics/Wavelength.md",
-    "Formulas/Classical Mechanics/Conservation of Momentum.md",
-    "Formulas/Classical Mechanics/Linear Period.md",
-    "Formulas/Classical Mechanics/Angular Frequency.md",
-    "Formulas/Classical Mechanics/Time.md",
-    "Formulas/Classical Mechanics/Linear Frequency.md",
-    "Formulas/Particle Physics/Broglie Wavelength.md",
-    "Formulas/Classical Mechanics/Position.md",
-    "Formulas/Classical Mechanics/Newton's Second Law.md",
-    "Formulas/Classical Mechanics/Moment of Inertia.md",
-    "Formulas/Classical Mechanics/Linear Momentum.md",
-    "Natural Units/Conversion Factors.md",
-    "Formulas/Particle Physics/Photon Energy.md",
-    "Formulas/Particle Physics",
-    "Formulas/Untitled.md",
-    "Constants/Gravitational Constant.md",
-    "Constants/Reduced Planck Constant.md",
-    "Constants/Speed of Light.md",
-    "Constants/Vacuum Permittivity.md",
+    "to do.md",
     "Constants/Planck Constant.md",
-    "Formulas/Relativity/Scalar Curviture.md",
+    "Constants/Reduced Planck Constant.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Velocity.md",
+    "Formulas/Relativity/Relativistic Units/Spacetime Interval.md",
+    "Formulas/Relativity/Schwarzschild Metric.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Time.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Energy.md",
+    "Constants/Gravitational Constant.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Momentum.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Length.md",
+    "Temporal Notes.md",
+    "Formulas/Relativity/Relativistic Units/Proper Length.md",
+    "Formulas/Relativity/Relativistic Units/Gravitational Time Dilation.md",
+    "Formulas/Relativity/Relativistic Units/Proper Time.md",
+    "Formulas/Relativity/Relativistic Units/Proper Mass.md",
+    "Formulas/Relativity/Lorentz Factor.md",
+    "Formulas/Relativity/Line Element.md",
+    "Formulas/Relativity/Relativistic Units",
+    "Formulas/Relativity/Stress-Energy Tensor.md",
+    "Formulas/Relativity/Energy-Momentum Relation.md",
+    "Formulas/Relativity/Einstein Field Equations.md",
+    "Formulas/Relativity/Einstein Tensor.md",
+    "Formulas/Relativity/Ten",
+    "Formulas/Relativity/Christoffel Symbols.md",
+    "Formulas/Math/Misc/Kronecker Delta.md",
+    "Formulas/Relativity/Metric Tensor.md",
+    "Formulas/Math/Misc",
+    "Formulas/Waves",
+    "Formulas/Particle Physics",
     "Natural Units",
-    "Formulas/Relativity/Spacetime Interval.md",
     "Wikipedia Compressed",
     "Formulas/Math/Algebra",
     "Formulas/Math/Geometry",
     "Formulas/Math/Calculus/Derivative Rules",
-    "Formulas/Math/Calculus",
-    "Formulas/Classical Mechanics/Untitled",
-    "Formulas/Classical Mechanics",
-    "Formulas/Electromagnetism/Untitled",
     "Pasted image 20230602155233.png"
   ]
 }

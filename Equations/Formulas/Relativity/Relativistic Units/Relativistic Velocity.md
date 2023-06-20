@@ -1,8 +1,8 @@
 
-$$v_{rel} = v_A - v_B$$
+$$v = v_A - v_B$$
 
 where:
-- $v_{rel}$ is the relative velocity
+- $v$ is the relative velocity
 - $v_A$ is the velocity of the observed object
 - $v_B$ is the velocity of the observer
 

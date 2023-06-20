@@ -1,10 +1,9 @@
 
-$$L' = L_0 \cdot \sqrt{1 - \frac{v^2}{c^2}}$$
+$$L = L_0 \cdot \sqrt{1 - \frac{v^2}{c^2}}$$
 
 where:
-- $L'$ is the contracted length
 - $L_0$ is the [[Proper Length]] (length at rest)
-- $v$ is the [[Relative Velocity]] between the observer and the object
+- $v$ is the [[Relativistic Velocity]] between the observer and the object
 - $c$ is the [[Speed of Light]]
 
 description:
