@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
+                "file": "Formulas/Quantum Mechanics/Wave Equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
+                "file": "Formulas/Quantum Mechanics/Wave Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
+                "file": "Formulas/Quantum Mechanics/Wave Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas/Relativity/Relativistic Units/Relativistic Mass.md"
+                "file": "Formulas/Quantum Mechanics/Wave Equation.md"
               }
             }
           }
@@ -161,6 +161,13 @@
   },
   "active": "4bfbd505721ba5f7",
   "lastOpenFiles": [
+    "Formulas/Quantum Mechanics/Hamiltonian Operator.md",
+    "Formulas/Quantum Mechanics/Wave Equation.md",
+    "Formulas/Quantum Mechanics/Schrödinger Equation.md",
+    "Formulas/Quantum Mechanics/Heisenberg Uncertainty Principle.md",
+    "Constants/Reduced Planck Constant.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
+    "Formulas/Quantum Mechanics",
     "Formulas/Relativity/Relativistic Units/Proper Mass.md",
     "Formulas/Relativity/Relativistic Units/Proper Kinetic Energy.md",
     "Formulas/Macro Mechanics/Mass.md",
@@ -169,7 +176,6 @@
     "Formulas/Relativity/Relativistic Units/Relativistic Time.md",
     "Formulas/Relativity/Relativistic Units/Relativistic Momentum.md",
     "Formulas/Relativity/Relativistic Units/Proper Length.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
     "Formulas/Relativity/Relativistic Units/Relativistic Length.md",
     "Formulas/Relativity/Relativistic Units/Relativistic Kinetic Energy.md",
     "Formulas/Relativity/Relativistic Units/Relativistic Energy.md",
@@ -183,11 +189,6 @@
     "Formulas/Relativity/Schwarzschild Metric.md",
     "to do.md",
     "Constants/Planck Constant.md",
-    "Constants/Reduced Planck Constant.md",
-    "Constants/Gravitational Constant.md",
-    "Temporal Notes.md",
-    "Formulas/Relativity/Lorentz Factor.md",
-    "Formulas/Relativity/Line Element.md",
     "Formulas/Relativity/Relativistic Units",
     "Formulas/Relativity/Ten",
     "Formulas/Math/Misc",
@@ -196,7 +197,6 @@
     "Natural Units",
     "Wikipedia Compressed",
     "Formulas/Math/Algebra",
-    "Formulas/Math/Geometry",
     "Pasted image 20230602155233.png"
   ]
 }
