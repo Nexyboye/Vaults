@@ -1,5 +1,5 @@
 
-$$p = \frac {m_0 ~ v}{\sqrt{1-\frac {v^2}{c^2}}}$$
+$$p = \frac {m_0 ~ β ~ c}{\sqrt{1-β^2}}$$
 
 where
 - $m_0$ is the [[Proper Mass]]

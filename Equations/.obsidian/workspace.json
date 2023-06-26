@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Relativity/Schwarzschild Metric.md",
+                "file": "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 273.5
   },
   "right": {
     "id": "2fee024af365b93b",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas/Relativity/Schwarzschild Metric.md",
+                "file": "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas/Relativity/Schwarzschild Metric.md",
+                "file": "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas/Relativity/Schwarzschild Metric.md"
+                "file": "Formulas/Relativity/Relativistic Units/Relativistic Mass.md"
               }
             }
           }
@@ -161,34 +161,35 @@
   },
   "active": "4bfbd505721ba5f7",
   "lastOpenFiles": [
+    "Formulas/Relativity/Relativistic Units/Proper Mass.md",
+    "Formulas/Relativity/Relativistic Units/Proper Kinetic Energy.md",
+    "Formulas/Macro Mechanics/Mass.md",
+    "Formulas/Relativity/Relativistic Units/Spacetime Interval.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Velocity.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Time.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Momentum.md",
+    "Formulas/Relativity/Relativistic Units/Proper Length.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Length.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Kinetic Energy.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Energy.md",
+    "Formulas/Relativity/Relativistic Units/Proper Time.md",
+    "Formulas/Relativity/Relativistic Units/Gravitational Time Dilation.md",
+    "Formulas/Macro Mechanics/Pendulum Kinetic Energy.md",
+    "Formulas/Macro Mechanics/Acceleration.md",
+    "Formulas/Classical Mechanics/Pendulum",
+    "Formulas/Macro Mechanics/Angular Velocity.md",
+    "Formulas/Particle Physics/Broglie Wavelength.md",
+    "Formulas/Relativity/Schwarzschild Metric.md",
     "to do.md",
     "Constants/Planck Constant.md",
     "Constants/Reduced Planck Constant.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Velocity.md",
-    "Formulas/Relativity/Relativistic Units/Spacetime Interval.md",
-    "Formulas/Relativity/Schwarzschild Metric.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Time.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Energy.md",
     "Constants/Gravitational Constant.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Momentum.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Length.md",
     "Temporal Notes.md",
-    "Formulas/Relativity/Relativistic Units/Proper Length.md",
-    "Formulas/Relativity/Relativistic Units/Gravitational Time Dilation.md",
-    "Formulas/Relativity/Relativistic Units/Proper Time.md",
-    "Formulas/Relativity/Relativistic Units/Proper Mass.md",
     "Formulas/Relativity/Lorentz Factor.md",
     "Formulas/Relativity/Line Element.md",
     "Formulas/Relativity/Relativistic Units",
-    "Formulas/Relativity/Stress-Energy Tensor.md",
-    "Formulas/Relativity/Energy-Momentum Relation.md",
-    "Formulas/Relativity/Einstein Field Equations.md",
-    "Formulas/Relativity/Einstein Tensor.md",
     "Formulas/Relativity/Ten",
-    "Formulas/Relativity/Christoffel Symbols.md",
-    "Formulas/Math/Misc/Kronecker Delta.md",
-    "Formulas/Relativity/Metric Tensor.md",
     "Formulas/Math/Misc",
     "Formulas/Waves",
     "Formulas/Particle Physics",
@@ -196,7 +197,6 @@
     "Wikipedia Compressed",
     "Formulas/Math/Algebra",
     "Formulas/Math/Geometry",
-    "Formulas/Math/Calculus/Derivative Rules",
     "Pasted image 20230602155233.png"
   ]
 }
