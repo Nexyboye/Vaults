@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TensorFlow/Basic Tensor Operations.md",
+                "file": "TensorFlow/Variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TensorFlow/Basic Tensor Operations.md",
+                "file": "TensorFlow/Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TensorFlow/Basic Tensor Operations.md",
+                "file": "TensorFlow/Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TensorFlow/Basic Tensor Operations.md"
+                "file": "TensorFlow/Variable.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "bb92aa61b4ae5071",
   "lastOpenFiles": [
     "TensorFlow/Basic Tensor Operations.md",
+    "TensorFlow/Variable.md",
     "TensorFlow",
     "Formulas/Relativity/Ricci Tensor.md",
     "Formulas/Relativity/Scalar Curviture.md",
@@ -178,7 +179,6 @@
     "My Ideas/Relative Velocity.md",
     "My Ideas/position of stuff.md",
     "My Ideas/Direction.md",
-    "Formulas/Classical Physics/Change.md",
     "Formulas/Math",
     "My Ideas",
     "Formulas/Classical Physics",
