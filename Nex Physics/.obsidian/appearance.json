@@ -1,0 +1,8 @@
+{
+  "accentColor": "#c20000",
+  "interfaceFontFamily": "Consolas",
+  "enabledCssSnippets": [
+    "latex_style"
+  ],
+  "baseFontSize": 11
+}
