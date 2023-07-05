@@ -5,7 +5,7 @@ $$k_e = \frac{1}{4 \cdot π \cdot ε_0}$$
 
 where
 	$π$ is [[Pi]]
-	$ε_0$ is [[Vacuum Permittivity]]
+	$ε_0$ is [[Vacuum Electric Permittivity]]
 
 
 $$k_e = \frac {α \cdot c \cdot hbar} {2 \cdot e^2}$$

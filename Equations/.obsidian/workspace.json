@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Units/SI Units/Weber.md",
+                "file": "Constants/Magnetic Flux Quantum.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Units/SI Units/Weber.md",
+                "file": "Constants/Magnetic Flux Quantum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Units/SI Units/Weber.md",
+                "file": "Constants/Magnetic Flux Quantum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Units/SI Units/Weber.md"
+                "file": "Constants/Magnetic Flux Quantum.md"
               }
             }
           }
@@ -171,46 +171,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b1004140e68c6e6",
+  "active": "f61e0ec445f97543",
   "lastOpenFiles": [
-    "Units/SI Units/Tesla.md",
-    "Units/SI Units/Siemens.md",
-    "Units/SI Units/Pascal.md",
-    "Units/SI Units/Newton.md",
-    "Units/SI Units/Joule.md",
+    "Formulas/Vacuum Magnetic Permeability.md",
+    "Constants/Magnetic Flux Quantum.md",
+    "Constants/Vacuum Electric Permittivity.md",
+    "Magnetic Constant.md",
+    "Constants/Einstein Gravitational Constant.md",
+    "Constants/Cosmological Constant.md",
+    "Constants/Hubble Constant.md",
+    "Units/SI Units/Erg.md",
+    "Units/SI Units/Coulomb.md",
+    "Units/SI Units/Candela.md",
+    "Units/SI Units/Calorie.md",
+    "Units/SI Units/Becquerel.md",
+    "Units/SI Units/Ampere.md",
     "Units/SI Units/Henry.md",
-    "Units/SI Units/Farad.md",
-    "Formulas/Pressure.md",
-    "Formulas/Particle Physics/Broglie Wavelength.md",
+    "Formulas/Stress.md",
+    "Formulas/Thermodynamic Temperature.md",
+    "to do.md",
+    "Temporal Notes.md",
+    "Units/SI Units/Bar.md",
+    "Units/SI Units/Dyne.md",
+    "Units/SI Units/Micron.md",
+    "Units/SI Units/Stilb.md",
+    "Units/SI Units/Poise.md",
+    "Units/SI Units/Mole.md",
+    "Units/SI Units/Watt.md",
+    "Units/SI Units/Hertz.md",
+    "Units/RMKS System",
+    "Units/CGS System",
+    "Units/MKS System",
+    "Units/SI Units/Prefixes",
     "Units/US Customary Units",
-    "Formulas/Electromagnetism/Electic Charge.md",
-    "Formulas/Electromagnetism/Electric Susceptance.md",
-    "Formulas/Electromagnetism/Electric Admittance.md",
-    "Formulas/Electromagnetism/Electric Conductance.md",
-    "Formulas/Electromagnetism/Electrical Capacitance.md",
-    "Units/SI Units/Weber.md",
-    "Formulas/Electromagnetism/Electric Field.md",
-    "Formulas/Electromagnetism/Magnetic Field.md",
-    "Formulas/Electromagnetism/Electromagnetic Force.md",
-    "Formulas/Electromagnetism/Electrical Inductance.md",
-    "Formulas/Electromagnetism/Magnetic Flux.md",
-    "Formulas/Electromagnetism/Electric Field Strength.md",
     "Pasted image 20230705110453.png",
     "Pasted image 20230705110450.png",
-    "Units/Natural Units/Conversion Factors.md",
     "Units/SI Units",
-    "Constants/Vacuum Permittivity.md",
-    "Formulas/Gauss's Law.md",
-    "Formulas/Relativity/Relativistic Units/Spacetime Interval.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Velocity.md",
     "Formulas/Thermodynamics",
     "Units",
     "Formulas/Quantum Mechanics",
     "Formulas/Classical Mechanics/Pendulum",
-    "Formulas/Relativity/Relativistic Units",
-    "Formulas/Relativity/Ten",
-    "Formulas/Math/Misc",
-    "Formulas/Waves",
     "Pasted image 20230602155233.png"
   ]
 }
