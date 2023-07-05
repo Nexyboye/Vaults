@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas/Macro Mechanics/Speed.md",
+                "file": "Formulas/Electromagnetism/Magnetic Field.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b1004140e68c6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Units/SI Units/Weber.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas/Macro Mechanics/Speed.md",
+                "file": "Units/SI Units/Weber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas/Macro Mechanics/Speed.md",
+                "file": "Units/SI Units/Weber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas/Macro Mechanics/Speed.md"
+                "file": "Units/SI Units/Weber.md"
               }
             }
           }
@@ -159,44 +171,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bfbd505721ba5f7",
+  "active": "5b1004140e68c6e6",
   "lastOpenFiles": [
-    "Formulas/Thermodynamics/Maxwell-Boltzmann Distribution.md",
-    "Formulas/Macro Mechanics/Speed.md",
-    "Constants/Euler's Number.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Momentum.md",
-    "Formulas/Thermodynamics",
-    "Formulas/Relativity/Relativistic Units/Relativistic Mass.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Length.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Kinetic Energy.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Energy.md",
-    "Formulas/Relativity/Relativistic Units/Proper Time.md",
-    "Formulas/Relativity/Relativistic Units/Proper Mass.md",
-    "Formulas/Relativity/Relativistic Units/Proper Kinetic Energy.md",
-    "Formulas/Relativity/Relativistic Units/Proper Distance.md",
-    "Formulas/Relativity/Relativistic Units/Relativistic Velocity.md",
-    "Formulas/Relativity/Lorentz Factor.md",
-    "Constants/Cosmological Constant.md",
-    "Constants/Hubble Constant.md",
+    "Units/SI Units/Tesla.md",
+    "Units/SI Units/Siemens.md",
+    "Units/SI Units/Pascal.md",
+    "Units/SI Units/Newton.md",
+    "Units/SI Units/Joule.md",
+    "Units/SI Units/Henry.md",
+    "Units/SI Units/Farad.md",
+    "Formulas/Pressure.md",
+    "Formulas/Particle Physics/Broglie Wavelength.md",
+    "Units/US Customary Units",
+    "Formulas/Electromagnetism/Electic Charge.md",
+    "Formulas/Electromagnetism/Electric Susceptance.md",
+    "Formulas/Electromagnetism/Electric Admittance.md",
+    "Formulas/Electromagnetism/Electric Conductance.md",
+    "Formulas/Electromagnetism/Electrical Capacitance.md",
+    "Units/SI Units/Weber.md",
+    "Formulas/Electromagnetism/Electric Field.md",
+    "Formulas/Electromagnetism/Magnetic Field.md",
+    "Formulas/Electromagnetism/Electromagnetic Force.md",
+    "Formulas/Electromagnetism/Electrical Inductance.md",
+    "Formulas/Electromagnetism/Magnetic Flux.md",
+    "Formulas/Electromagnetism/Electric Field Strength.md",
+    "Pasted image 20230705110453.png",
+    "Pasted image 20230705110450.png",
     "Units/Natural Units/Conversion Factors.md",
-    "Units",
+    "Units/SI Units",
+    "Constants/Vacuum Permittivity.md",
+    "Formulas/Gauss's Law.md",
     "Formulas/Relativity/Relativistic Units/Spacetime Interval.md",
-    "Formulas/Relativity/Line Element.md",
-    "Formulas/Relativity/Stress-Energy Tensor.md",
-    "Formulas/Relativity/Untitled.md",
-    "to do.md",
-    "Formulas/Quantum Mechanics/Wave Equation.md",
-    "Formulas/Quantum Mechanics/Hamiltonian Operator.md",
-    "Formulas/Quantum Mechanics/Schrödinger Equation.md",
-    "Formulas/Quantum Mechanics/Heisenberg Uncertainty Principle.md",
+    "Formulas/Relativity/Relativistic Units/Relativistic Velocity.md",
+    "Formulas/Thermodynamics",
+    "Units",
     "Formulas/Quantum Mechanics",
     "Formulas/Classical Mechanics/Pendulum",
     "Formulas/Relativity/Relativistic Units",
     "Formulas/Relativity/Ten",
     "Formulas/Math/Misc",
     "Formulas/Waves",
-    "Formulas/Particle Physics",
-    "Units/Natural Units",
     "Pasted image 20230602155233.png"
   ]
 }

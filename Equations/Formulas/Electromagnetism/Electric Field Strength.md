@@ -11,3 +11,7 @@ where
 	$Q$ is the charge of the object
 	$k_e$ is the [[Electrostatic Constant]]
 	$r$ is the distance between charged objects
+
+
+description
+	Electric field strength is a vector quantity that describes the amount of force experienced by a charged particle

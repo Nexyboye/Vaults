@@ -2,7 +2,7 @@
 $$β = \frac{v}{c}$$
 
 where
-$v$ is the velocity
+$v$ is the proper velocity
 $c$ is the [[Speed of Light]]
 
 description

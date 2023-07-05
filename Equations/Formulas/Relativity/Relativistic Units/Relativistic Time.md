@@ -1,18 +1,18 @@
 
 velocity time dilation
-$$t_v = \frac{t_0} {\sqrt{1 - β^2}}$$
+$$t_v = t_0 ~ \gamma$$
 
 where
-$t_0$ is the [[Proper Time]]
-$β$ is the [[Relativistic Velocity]]
-$c$ is the [[Speed of Light]]
+- $t_0$ is the [[Proper Time]]
+- $\gamma$ is the [[Lorentz Factor]]
+- $c$ is the [[Speed of Light]]
 
 
 
 
 
 gravitational time dilation
-$$t_g = \frac{t_0}{\sqrt{1 - \frac{2Gm_0}{rc^2}}}$$
+$$t_g = \frac{t_0}{\sqrt{1 - \frac{2 ~ G ~ m_0}{r ~ c^2}}}$$
 
 where
 	$t_0$ is the [[Proper Time]]
@@ -23,4 +23,4 @@ where
 
 
 and lastly
-$$t = t_v \cdot t_g$$
+$$t = t_v ~ t_g$$

@@ -1,2 +1,6 @@
 
-$$ε_0 \approx 8.854 \cdot 10^{-12} \cdot \frac{C^2} {N \cdot m^2}$$
+$$ε_0 = \frac{1}{μ_0 ~ c^2}$$
+
+where
+- $c$ is the [[Speed of Light]]
+- $μ_0$ is the [[Magnetic Constant]]
