@@ -1,1 +1,6 @@
-{}
+{
+  "legacyEditor": false,
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
+}
